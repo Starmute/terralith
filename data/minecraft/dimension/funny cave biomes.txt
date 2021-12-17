@@ -1,0 +1,389 @@
+{"parameters": {
+            "erosion": [
+              -1.0,
+              1.0
+            ],
+            "depth": [
+              0.275,
+              0.9
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "continentalness": [
+              0.8,
+              1.0
+            ]
+          },
+          "biome": "minecraft:dripstone_caves"
+        },
+        {
+          "parameters": {
+            "erosion": [
+              -1.0,
+              1.0
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0,
+              1.0
+            ],
+            "humidity": [
+              0.69,
+              1.0
+            ],
+            "continentalness": [
+              -1.0,
+              1.0
+            ]
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "erosion": [
+              -0.565,
+              0.1
+            ],
+            "depth": [
+              0.225,
+              0.9
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.24,
+            "temperature": [
+              -1.0,
+              1.0
+            ],
+            "humidity": [
+              0.0,
+              0.2
+            ],
+            "continentalness": [
+              0.3,
+              0.725
+            ]
+          },
+          "biome": "terralith:cave/thermal_caves"
+        },
+                        {
+          "parameters": {
+            "erosion": [
+              0.1,
+              0.5
+            ],
+            "depth": [
+              0.225,
+              0.9
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.24,
+            "temperature": [
+              -0.2,
+              1.0
+            ],
+            "humidity": [
+              -0.4,
+              -0.2
+            ],
+            "continentalness": [
+              0.15,
+              0.725
+            ]
+          },
+          "biome": "terralith:cave/fungal_caves"
+        },
+                {
+          "parameters": {
+            "erosion": [
+              -1.0,
+              0.1
+            ],
+            "depth": [
+              0.225,
+              0.9
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.325,
+            "temperature": [
+              -1.0,
+              1.0
+            ],
+            "humidity": [
+              0.0,
+              0.2
+            ],
+            "continentalness": [
+              0.3,
+              0.725
+            ]
+          },
+          "biome": "terralith:cave/fungal_caves"
+        },
+        {
+          "parameters": {
+            "erosion": [
+              -1.0,
+              0.25
+            ],
+            "depth": [
+              0.15,
+              0.6
+            ],
+            "weirdness": [
+              0.0,
+              1.0
+            ],
+            "offset": 0.225,
+            "temperature": [
+              0.3,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "continentalness": [
+              0.25,
+              0.625
+            ]
+          },
+          "biome": "terralith:cave/granite_caves"
+        },
+        {
+          "parameters": {
+            "erosion": [
+              -0.25,
+              1.0
+            ],
+            "depth": [
+              0.15,
+              0.6
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.225,
+            "temperature": [
+              -0.3,
+              0.3
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "continentalness": [
+              0.3,
+              0.6
+            ]
+          },
+          "biome": "terralith:cave/andesite_caves"
+        },
+        {
+          "parameters": {
+            "erosion": [
+              -0.5,
+              0.5
+            ],
+            "depth": [
+              0.15,
+              0.6
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.25,
+            "temperature": [
+              -1.0,
+              0.15
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "continentalness": [
+              0.3,
+              0.6
+            ]
+          },
+          "biome": "terralith:cave/diorite_caves"
+        },
+        {
+          "parameters": {
+            "erosion": [
+              -1.0,
+              0.0
+            ],
+            "depth": [
+              1.15,
+              1.8
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.24,
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -0.4,
+              0.4
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ]
+          },
+          "biome": "terralith:cave/tuff_caves"
+        },
+        {
+          "parameters": {
+            "erosion": [
+              -1.0,
+              1.0
+            ],
+            "depth": [
+              0.225,
+              0.8
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.23,
+            "temperature": [
+              0.6,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              -0.5
+            ],
+            "continentalness": [
+              0.4,
+              1.0
+            ]
+          },
+          "biome": "terralith:cave/desert_caves"
+        },
+        /*{
+          "parameters": {
+            "erosion": [
+              -1.0,
+              1.0
+            ],
+            "depth": [
+              0.15,
+              0.7
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.25,
+            "temperature": [
+              -1.0,
+              -0.7
+            ],
+            "humidity": [
+              -1.0,
+              0.25
+            ],
+            "continentalness": [
+              0.3,
+              1.0
+            ]
+          },
+          "biome": "terralith:cave/ice_caves"
+        },*/
+        {
+          "parameters": {
+            "erosion": [
+              0.0,
+              1.0
+            ],
+            "depth": [
+              1.2,
+              2.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.015,
+            "temperature": [
+              -1.0,
+              0.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "continentalness": [
+              -1.0,
+              1.0
+            ]
+          },
+          "biome": "terralith:cave/frostfire_caves"
+        },
+        {
+          "parameters": {
+            "erosion": [
+              -1.0,
+              0.0
+            ],
+            "depth": [
+              1.0,
+              2.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.015,
+            "temperature": [
+              0.1,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              -0.0
+            ],
+            "continentalness": [
+              -1.0,
+              0.9
+            ]
+          },
+          "biome": "terralith:cave/mantle_caves"
+        }

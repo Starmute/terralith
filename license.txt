@@ -1,0 +1,48 @@
+This license describes how all Stardust Labs datapacks and mods and their code may (and, conversely, may not) be used. This license is subject to change by Starmute and Stardust Labs at their SOLE DISCRETION at any time. This license was last altered on November 30, 2021.
+
+
+PERMITTED USES
+===================
+
+	- You are UNCONDITIONALLY PERMITTED to use any Stardust Labs datapacks and/or mods for whatever personal purpose you desire. You can use it on a singleplayer world and modify it as much as you want, as long as you don't distribute modified versions of the datapacks and/or mods.
+
+	- You are PERMITTED to use Stardust Labs datapacks or mods on any Minecraft server, public or private. It is recommended, but not required, that you give credit to Starmute or note somewhere on your server that said datapack or mod is in use. Furthermore:
+
+		* You are additionally permitted to use Stardust Labs datapacks and mods in any MODIFIED form on any Minecraft server, public or private, provided that you do not distribute any modified versions of said datapacks or mods.
+
+	- You are PERMITTED to use Stardust Labs datapacks or mods in their UNMODIFIED form as part of a publicly distributed modpack. If you do so, you MUST give credit to Starmute and include a link to the relevant datapack or mod. The datapack or mod must be used in its whole form (besides any compatibility addons for other datapacks.)
+
+
+PROHIBITED USES
+====================
+
+	- You are FORBIDDEN to reupload, republish, or redistribute any Stardust Labs datapack or mod in a standalone format.
+
+	- You are FORBIDDEN to reupload, republish, or redistribute any modified version of any Stardust Labs datapack or mod on its own.
+
+	- You are FORBIDDEN to use any Stardust Labs datapack in any publicly distributed "datapack-pack" without Starmute's express permission. A "datapack-pack" is a collection of datapacks offered for download in a bundled form, which is distinct from a modpack because it can be used on an unmodified client.
+
+	- You are FORBIDDEN to use any modified version of any Stardust Labs datapack as part of any publicly distributed modpack or "datapack-pack" without permission. This includes cases where the datapack is required to be downloaded separately, with parts being overridden. There are three exceptions to this:
+
+		i) Changing the world seed or adding any seed randomizing functionality is allowed.
+
+		ii) Adding structures to the pack or altering structure generation (besides altering the datapack's own structures) is allowed.
+
+		iii) Modifying loot tables is allowed unconditionally.
+
+	- You are FORBIDDEN to use portions of any Stardust Labs datapack or mod's code as part of any other datapack, "datapack-pack", modpack or mod without express permission. You are free to read the code and use it as a resource to learn from, but copying parts of it into another project is not allowed. There is one exception for this:
+
+		i) Making compatibility addons between Stardust Labs datapacks and other datapacks is allowed.
+
+EXEMPTIONS
+=============
+
+	- Anyone currently employed by Mojang Studios is granted UNCONDITIONAL PERMISSION to use any part of any Stardust Labs datapack or mod, or its code, for any purpose relating to Minecraft's development.
+	
+	- The individual known as xNitrate is EXPRESSLY FORBIDDEN to use any Stardust Labs datapack or mod on any public Minecraft server which accepts donations.
+
+
+STARMUTE'S PERMISSION
+==========================
+
+It should be assumed that, given Starmute is the founder of Stardust Labs and holds full copyright over all parts of its datapacks, that any part of this license can be overriden on an individual basis with Starmute's permission. Starmute may also create and distribute modified versions of these datapacks or mods at any time, for any reason, whether personal or commissioned. 
