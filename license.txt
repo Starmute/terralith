@@ -1,4 +1,4 @@
-This license describes how all Stardust Labs datapacks and mods and their code may (and, conversely, may not) be used. This license is subject to change by Starmute and Stardust Labs at their SOLE DISCRETION at any time. This license was last altered on November 30, 2021.
+This License describes how all Stardust Labs datapacks and mods and their code may (and, conversely, may not) be used. This License is subject to change by Starmute and Stardust Labs at their SOLE DISCRETION at any time. This License was last altered on January 23, 2022.
 
 
 PERMITTED USES
@@ -11,6 +11,9 @@ PERMITTED USES
 		* You are additionally permitted to use Stardust Labs datapacks and mods in any MODIFIED form on any Minecraft server, public or private, provided that you do not distribute any modified versions of said datapacks or mods.
 
 	- You are PERMITTED to use Stardust Labs datapacks or mods in their UNMODIFIED form as part of a publicly distributed modpack. If you do so, you MUST give credit to Starmute and include a link to the relevant datapack or mod. The datapack or mod must be used in its whole form (besides any compatibility addons for other datapacks.)
+
+	- You are PERMITTED to use Stardust Labs datapacks or mods as part of for-profit endeavors such as servers and modpacks, as long as the other guidelines of this License have been followed, appropriate credit has been given, and as long as you have not been specifically prohibited from doing so.
+
 
 
 PROHIBITED USES
@@ -39,10 +42,9 @@ EXEMPTIONS
 
 	- Anyone currently employed by Mojang Studios is granted UNCONDITIONAL PERMISSION to use any part of any Stardust Labs datapack or mod, or its code, for any purpose relating to Minecraft's development.
 	
-	- The individual known as xNitrate is EXPRESSLY FORBIDDEN to use any Stardust Labs datapack or mod on any public Minecraft server which accepts donations.
+	- Stardust Labs reserves the right to prohibit certain individuals and groups from profiting off of these Projects at our SOLE DISCRETION. However, no individual or group will be prohibited from using these Projects for personal purposes, or any purpose that does not involve profit, as long as the other guidelines of this License have been followed.
 
-
-STARMUTE'S PERMISSION
+OFFICIAL PERMISSION
 ==========================
 
-It should be assumed that, given Starmute is the founder of Stardust Labs and holds full copyright over all parts of its datapacks, that any part of this license can be overriden on an individual basis with Starmute's permission. Starmute may also create and distribute modified versions of these datapacks or mods at any time, for any reason, whether personal or commissioned. 
+It should be assumed that, given Stardust Labs holds full copyright over all parts of its datapacks, that any part of this License can be overriden on an individual basis with the permission of Stardust Labs. Stardust Labs reserves the right to create and distribute modified versions of these datapacks or mods at any time, for any reason, whether personal or commissioned.
